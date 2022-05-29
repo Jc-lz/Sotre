@@ -1,0 +1,244 @@
+@media only screen and (max-width: 480px){
+  .wrapper{
+      font-size: .8em;
+  }
+
+    .header-menu{
+      width: 100%;
+  }
+
+  .navbar{
+      padding-top: 10px;
+      width: 100%;
+  }
+
+  .navbar a{
+      padding: 10px;
+  }
+
+  .banner-home{
+      width: 100%;
+  }
+
+  .initial-card{
+      width: 45%;
+  }
+
+  .card-sections{
+      width: 45%;
+  }
+
+  .img-populares-container{
+      width: 45%;
+      margin: 5px 0;
+  }
+
+  .img-promos-container{
+      width: 45%;
+      margin: 5px 0;
+  }
+
+  .img-ultimas-container{
+    width: 45%;
+    margin: 5px 0;
+  }
+
+  .footer-container{
+      width: 100%;
+      justify-content: center;
+  }
+
+  .footer-info{
+      width: 100%;
+      font-size: .9em;
+      justify-content: center;
+  }
+
+  .footer-info a{
+    padding: 20px;
+  }
+
+  .img-footer-container{
+      width: 100%;
+      justify-content: center;
+  }
+
+  .footer-settings{
+      width: 100%;
+      font-size: .9em;
+      justify-content: center;
+  }
+
+  .footer-settings a{
+      padding: 5px;
+  }
+
+  .footer-creator{
+      align-items: center;
+      font-size: .3em;
+  }
+}
+
+@media only screen and (max-width: 768px){
+    .wrapper{
+        font-size: .8em;
+    }
+  
+      .header-menu{
+        width: 100%;
+    }
+  
+    .navbar{
+        padding-top: 10px;
+        width: 100%;
+    }
+
+    .navbar a{
+        padding: 10px;
+    }
+  
+    .banner-home{
+        width: 100%;
+    }
+  
+    .initial-card{
+        width: 45%;
+    }
+  
+    .card-sections{
+        width: 45%;
+    }
+  
+    .img-populares-container{
+        width: 45%;
+        margin: 5px 0;
+    }
+  
+    .img-promos-container{
+        width: 45%;
+        margin: 5px 0;
+    }
+  
+    .img-ultimas-container{
+      width: 45%;
+      margin: 5px 0;
+    }
+  
+    .footer-container{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .img-footer-container{
+        width: 100%;
+        justify-content: center;
+    }
+  
+    .footer-info{
+        width: 100%;
+        font-size: .9em;
+        justify-content: center;
+    }
+  
+    .footer-info a{
+      padding: 20px;
+    }
+  
+    .footer-settings{
+        width: 100%;
+        font-size: .9em;
+        justify-content: center;
+    }
+  
+    .footer-settings a{
+        padding: 5px;
+    }
+  
+    .footer-creator{
+        align-items: center;
+        font-size: .3em;
+    }
+
+  }
+
+  @media only screen and (max-width: 1024px){
+    .wrapper{
+        font-size: .8em;
+    }
+  
+      .header-menu{
+        width: 100%;
+    }
+  
+    .navbar{
+        padding-top: 10px;
+        width: 100%;
+    }
+
+    .navbar a{
+        padding: 10px;
+    }
+  
+    .banner-home{
+        width: 100%;
+    }
+  
+    .initial-card{
+        width: 45%;
+    }
+  
+    .card-sections{
+        width: 45%;
+    }
+  
+    .img-populares-container{
+        width: 45%;
+        margin: 5px 0;
+    }
+  
+    .img-promos-container{
+        width: 45%;
+        margin: 5px 0;
+    }
+  
+    .img-ultimas-container{
+      width: 45%;
+      margin: 5px 0;
+    }
+  
+    .footer-container{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .img-footer-container{
+        width: 100%;
+        justify-content: center;
+    }
+  
+    .footer-info{
+        width: 100%;
+        font-size: .9em;
+        justify-content: center;
+    }
+  
+    .footer-info a{
+      padding: 20px;
+    }
+  
+    .footer-settings{
+        width: 100%;
+        font-size: .9em;
+        justify-content: center;
+    }
+  
+    .footer-settings a{
+        padding: 5px;
+    }
+  
+    .footer-creator{
+        align-items: center;
+        font-size: .3em;
+    }
+
+  }
